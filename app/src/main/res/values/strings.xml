@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AndroidFundamentals_DialogForAlert</string>
+    <string name="alert_button_name">Alert</string>
+    <string name="hello_world_tap_to_test_the_alert">Hello World! Tap to test the alert:</string>
+    <string name="pressed_OK">Pressed OK</string>
+    <string name="cancel">Pressed Cancel</string>
 </resources>
